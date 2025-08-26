@@ -1,6 +1,6 @@
 # E aí, tranquilinho? Me chamo Lauro Filho 👋
 
-Sou **Analista de Sistemas e Desenvolvedor Fullstack**, especializado em **C# / .NET no backend** e **Vue.js no frontend**. Também trabalho com **SQL Server** e curto muito criar soluções escaláveis e eficientes.  
+Sou **Analista de Sistemas e Desenvolvedor Fullstack**, especializado em **C# / .NET no backend** e **Vue.js no frontend**, além de estar vendo um bocado de **react**! Também trabalho com **SQL Server / MySql** e curto muito criar soluções escaláveis e eficientes.
 
 ---
 
@@ -16,9 +16,8 @@ Sou **Analista de Sistemas e Desenvolvedor Fullstack**, especializado em **C# / 
 
 ## 🌱 Atualmente Aprendendo
 
-- Arquiteturas modernas (Clean Architecture, DDD)  
 - Testes automatizados e boas práticas de **CI/CD**  
-- Novidades do **Vue 3** e **TypeScript**
+- Novidades do **TypeScript**
   
 ---
 
